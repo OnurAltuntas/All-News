@@ -22,9 +22,9 @@
 
 ### Setup
 
-> install express server
-> change connection string from web-config if needs
-> run
+- install express server
+- change connection string from web-config if needs
+- run
 
 ## Contributing
 
